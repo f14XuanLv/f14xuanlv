@@ -1,16 +1,16 @@
-## Hi there 👋
+# 你好，我是 f14xuanlv 👋
 
-<!--
-**f14XuanLv/f14xuanlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+- 🎓 计算机科学与技术专业
+- 💻 编程语言：Python、C++
+- 👀 领域：计算机视觉、神经网络、网络应用开发等
 
-Here are some ideas to get you started:
+## 技术栈
+- 🐍 Python
+- 🔧 C++
+- 🖼️ OpenCV
+- 🧠 深度学习/CV神经网络
+- 🌐 网络应用开发
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub 统计
+![您的GitHub统计](https://github-readme-stats.vercel.app/api?username=f14xuanlv&show_icons=true&theme=radical)
