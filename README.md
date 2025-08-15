@@ -32,7 +32,7 @@
 <td width="50%">
 
 **💻 语言分布**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f14xuanlv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f14xuanlv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
