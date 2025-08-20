@@ -25,13 +25,11 @@
 <tr>
 <td width="50%">
 
-**📈 整体统计**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f14xuanlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 </td>
 <td width="50%">
-
-**💻 语言分布**  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f14xuanlv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
@@ -39,15 +37,13 @@
 <tr>
 <td colspan="2">
 
-**🎯 贡献数据**  
-![Merged PRs](https://img.shields.io/badge/dynamic/json?color=green&label=Merged%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Af14xuanlv%2Btype%3Apr%2Bis%3Amerged&style=flat-square&logo=github) ![Total PRs](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Af14xuanlv%2Btype%3Apr&style=flat-square&logo=github) ![Total Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Issues&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Af14xuanlv%2Btype%3Aissue&style=flat-square&logo=github)
+![GitHub PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=f14xuanlv&theme=dark&status=all&min_stars=0&limit=10&sort=status%2Cstars_desc&stats=total_pr%2Cmerged_pr%2Cdisplay_pr%2Crepos_with_pr%2Crepos_with_merged_pr%2Cshowing_repos&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**🏆 成就徽章**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=f14xuanlv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </td>
