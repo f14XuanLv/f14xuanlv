@@ -19,36 +19,32 @@
 **图形学**  
 ![OpenGL](https://img.shields.io/badge/-OpenGL-0094F6?style=flat-square&logo=opengl&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 
+<div align="center">
+
 ## 📊 GitHub 数据概览
 
 <table>
 <tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f14xuanlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=f14xuanlv&theme=tokyonight" alt="GitHub Stats">
 </td>
-<td width="50%">
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f14xuanlv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f14xuanlv&theme=tokyonight" alt="Most Commit Language">
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-![GitHub PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=f14xuanlv&theme=dark&status=all&min_stars=0&limit=20&sort=status%2Cstars_desc&stats=total_pr%2Cmerged_pr%2Cdisplay_pr%2Crepos_with_pr%2Crepos_with_merged_pr%2Cshowing_repos&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
-
+<td colspan="2" align="center">
+<img width="100%" src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=f14xuanlv&theme=dark&status=all&min_stars=0&limit=20&sort=status%2Cstars_desc&stats=total_pr%2Cmerged_pr%2Cdisplay_pr%2Crepos_with_pr%2Crepos_with_merged_pr%2Cshowing_repos&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list" alt="GitHub PR Stats">
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=f14xuanlv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
-
+<td colspan="2" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f14xuanlv&theme=tokyonight" alt="Profile Details">
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 📫 联系方式
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/f14xuanlv) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1132873678389006386) [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/Thick-Current-1335)
