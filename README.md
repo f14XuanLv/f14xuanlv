@@ -3,7 +3,7 @@
 ## 🚀 关于我
 - 🎓 **专业**: 计算机科学与技术专业 | 💻 **主要语言**: Python、C++
 - 🔍 **研究领域**: 计算机图形学、计算机视觉、神经网络
-- 🎯 **业余开发**: 前后端、Web应用，Tampermonkey
+- 🎯 **业余开发**: 客户端、Agent应用、Tampermonkey、虚幻Mod
 
 ## 🛠️ 技术栈
 
@@ -14,7 +14,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **业余开发**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-00485B?style=flat-square&logo=tampermonkey&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-00485B?style=flat-square&logo=tampermonkey&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 **图形学**  
 ![OpenGL](https://img.shields.io/badge/-OpenGL-0094F6?style=flat-square&logo=opengl&logoColor=white) ![DirectX](https://img.shields.io/badge/-DirectX-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
